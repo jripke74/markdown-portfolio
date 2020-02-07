@@ -11,3 +11,5 @@ Below is a list of technical skills
 
 - GitHub
 - Git
+
+_ Life long learner!!!
