@@ -9,7 +9,7 @@ Below is a list of technical skills
 
 ## Collaboration
 
-- GitHub
+- **GitHub**
 - Git
 
-_ Life long learner!!!
+_Life long learner!!!_
